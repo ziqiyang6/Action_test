@@ -7,7 +7,7 @@ This is a simple Python project that demonstrates how to use GitHub Actions for 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/my_project.git
+    git clone https://github.com/ziqiyang6/Action_test.git
     ```
 
 2. Install dependencies:
@@ -24,7 +24,7 @@ This is a simple Python project that demonstrates how to use GitHub Actions for 
 
 ## Usage
 
-You can use the `add` function in the `my_module.py`:
+You can use the `add` function in the `module.py`:
 
 ```python
 from my_project.my_module import add
