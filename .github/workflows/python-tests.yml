@@ -21,9 +21,6 @@ jobs:
       with:
         python-version: '3.x'
 
-    - name: Set PYTHONPATH
-      run: echo "::set-env name=PYTHONPATH::$(pwd)"
-
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
